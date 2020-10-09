@@ -1,0 +1,30 @@
+@media screen and (max-width:720px) {
+    .flexcontainer2 {
+        display: flex;
+        flex-direction: column;
+
+    }
+    .flexcontainer2 img{
+        max-width: 30%;
+        margin: auto;
+        
+    }
+    .flexcontainer3 {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .flexcontainer3 img{
+        margin: auto;
+        max-width: 30%;
+    }
+    .flexcontainer4 {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .flexcontainer4 img{
+        margin: auto;
+        max-width: 30%;
+    }
+}
